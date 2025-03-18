@@ -1,0 +1,35 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "This is namte react app with namrata patil",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamrataSontakke/namateReact_march2025_app.git"
+  },
+  "keywords": [
+    "Namrata",
+    "patil",
+    "react"
+  ],
+  "author": "Namrata Patuil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamrataSontakke/namateReact_march2025_app/issues"
+  },
+  "homepage": "https://github.com/NamrataSontakke/namateReact_march2025_app#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserList": [
+    "Last 2 versions"
+  ]
+}
